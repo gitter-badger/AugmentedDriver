@@ -1,5 +1,7 @@
 # Augmented Driver
 
+[![Join the chat at https://gitter.im/relateiq/AugmentedDriver](https://badges.gitter.im/relateiq/AugmentedDriver.svg)](https://gitter.im/relateiq/AugmentedDriver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Check [our 5 Minute Tutorial](http://augmenteddriver.salesforceiq.com/#what-is-augmented-driver) on how to use the tool.
 
 Also, for more detailed information, the [Wiki](https://github.com/relateiq/AugmentedDriver/wiki/The-Basics) is available  
